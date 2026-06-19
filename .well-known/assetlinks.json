@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.leevilenski.bowls",
+      "sha256_cert_fingerprints": [
+        "BF:FA:C5:AF:45:40:43:5F:0C:05:02:CA:B0:F2:B4:5D:5F:A8:CA:2E:D4:E2:E0:3C:41:C2:DC:78:79:90:80:0A"
+      ]
+    }
+  }
+]
